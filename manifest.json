@@ -1,0 +1,31 @@
+{
+  "name": "SOLEA — Calcul temps",
+  "short_name": "SOLEA Calcul",
+  "description": "Outil post-visite SOLEA — Calcul de temps par fixture selon standards ISSA pour estimation de soumission",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a1020",
+  "theme_color": "#b89ef8",
+  "orientation": "portrait-primary",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
